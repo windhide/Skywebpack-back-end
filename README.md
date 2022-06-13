@@ -2,4 +2,4 @@
 Skywebpack的后端
 
 > 这个是 https://github.com/windhide/Skywebpack 的后端
-> 使用Spring + Spring boot + Spring MVC +mybatis-plus
+> 使用Spring boot + mybatis-plus 
